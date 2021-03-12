@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859231764314",
+    "project_id": "wallet-manager-15c9c",
+    "storage_bucket": "wallet-manager-15c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859231764314:android:995f036ecca23a3dd1bd63",
+        "android_client_info": {
+          "package_name": "com.yammie.wallet_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859231764314-ltes2qc7vis3f0pnoh52esjpuf86084i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yammie.wallet_manager",
+            "certificate_hash": "afd66de92a1c2086764dd201496a2236b4d7aa7c"
+          }
+        },
+        {
+          "client_id": "859231764314-16otqrdce6a5gmkprv6efuspasr4qjn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0JssvEKJSGwBb66G5cukS-BWwUzrmDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859231764314-16otqrdce6a5gmkprv6efuspasr4qjn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
